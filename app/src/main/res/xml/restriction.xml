@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restrictions xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <restriction
+        android:key="awservername"
+        android:title="@string/awserver_name_title"
+        android:restrictionType="string"
+        android:description="@string/awsername_description"
+        android:defaultValue="awserver" />
+
+    <restriction
+        android:key="counter"
+        android:title="@string/counter_title"
+        android:restrictionType="integer"
+        android:description="@string/counter_description"
+        android:defaultValue="0" />
+
+</restrictions>

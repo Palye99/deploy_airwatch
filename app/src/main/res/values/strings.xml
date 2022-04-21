@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">restriction</string>
+    <string name="awserver_name_title">TEST</string>
+    <string name="awsername_description">TEST</string>
+    <string name="counter_title">TEST</string>
+    <string name="counter_description">TEST</string>
+</resources>
